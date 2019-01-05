@@ -1,0 +1,11 @@
+title:2_glucose-intermittent
+location//updated_ct_script_iob_based.py//#glucose:HOOK#
+fault 1//if fault_prob<=10://glucose=random.randint(0,300)
+fault 2//if fault_prob<=20://glucose=random.randint(0,300)
+fault 3//if fault_prob<=30://glucose=random.randint(0,300)
+fault 4//if fault_prob<=40://glucose=random.randint(0,300)
+fault 5//if fault_prob<=50://glucose=random.randint(0,300)
+fault 6//if fault_prob<=60://glucose=random.randint(0,300)
+fault 7//if fault_prob<=70://glucose=random.randint(0,300)
+fault 8//if fault_prob<=80://glucose=random.randint(0,300)
+fault 9//if fault_prob<=90://glucose=random.randint(0,300)

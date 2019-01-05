@@ -1,0 +1,3 @@
+bg,eq_BG,CGM_glucose,IOB,rate,running_temp,fault_reason
+100,107,100,-0.211,0.45,0.5,Null
+100,109,100,-0.244,0.6,0.45,Null

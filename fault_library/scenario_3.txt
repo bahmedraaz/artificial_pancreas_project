@@ -1,0 +1,8 @@
+title:3_temp_basal_stuck
+location//updated_ct_script_iob_based.py//#temp_basal:HOOK#
+fault 1//if _>=10://temp_basal=0
+fault 2//if _>=10://temp_basal=1
+fault 3//if _>=10://temp_basal=2
+fault 4//if _>=10://temp_basal=3
+fault 5//if _>=10://temp_basal=4
+fault 6//if _>=10://temp_basal=5

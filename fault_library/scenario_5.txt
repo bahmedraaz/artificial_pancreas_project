@@ -1,0 +1,8 @@
+title:5_controller_output_stuck
+location//updated_ct_script_iob_based.py//#rate:HOOK#
+fault 1//if _>=10://rate=0
+fault 2//if _>=10://rate=1
+fault 3//if _>=10://rate=2
+fault 4//if _>=10://rate=3
+fault 5//if _>=10://rate=4
+fault 6//if _>=10://rate=5

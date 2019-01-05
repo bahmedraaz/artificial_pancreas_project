@@ -1,0 +1,11 @@
+title:4_temp_basal-intermittent
+location//updated_ct_script_iob_based.py//#temp_basal:HOOK#
+fault 1//if fault_prob<=10://temp_basal=random.randint(0,6)
+fault 2//if fault_prob<=20://temp_basal=random.randint(0,6)
+fault 3//if fault_prob<=30://temp_basal=random.randint(0,6)
+fault 4//if fault_prob<=40://temp_basal=random.randint(0,6)
+fault 5//if fault_prob<=50://temp_basal=random.randint(0,6)
+fault 6//if fault_prob<=60://temp_basal=random.randint(0,6)
+fault 7//if fault_prob<=70://temp_basal=random.randint(0,6)
+fault 8//if fault_prob<=80://temp_basal=random.randint(0,6)
+fault 9//if fault_prob<=90://temp_basal=random.randint(0,6)

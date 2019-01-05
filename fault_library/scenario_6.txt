@@ -1,0 +1,11 @@
+title:6_controller_output-intermittent
+location//updated_ct_script_iob_based.py//#rate:HOOK#
+fault 1//if fault_prob<=10://rate=random.randint(0,6)
+fault 2//if fault_prob<=20://rate=random.randint(0,6)
+fault 3//if fault_prob<=30://rate=random.randint(0,6)
+fault 4//if fault_prob<=40://rate=random.randint(0,6)
+fault 5//if fault_prob<=50://rate=random.randint(0,6)
+fault 6//if fault_prob<=60://rate=random.randint(0,6)
+fault 7//if fault_prob<=70://rate=random.randint(0,6)
+fault 8//if fault_prob<=80://rate=random.randint(0,6)
+fault 9//if fault_prob<=90://rate=random.randint(0,6)

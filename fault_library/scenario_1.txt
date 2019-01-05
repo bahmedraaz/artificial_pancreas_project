@@ -1,0 +1,17 @@
+title:1_glucose-stuck
+location//updated_ct_script_iob_based.py//#glucose:HOOK#
+fault 1//if _>=5://glucose=0
+fault 2//if _>=5://glucose=20
+fault 3//if _>=5://glucose=40
+fault 4//if _>=5://glucose=60
+fault 5//if _>=5://glucose=80
+fault 6//if _>=5://glucose=100
+fault 7//if _>=5://glucose=120
+fault 8//if _>=5://glucose=140
+fault 9//if _>=5://glucose=160
+fault 10//if _>=5://glucose=180
+fault 11//if _>=5://glucose=200
+fault 12//if _>=5://glucose=220
+fault 13//if _>=5://glucose=240
+fault 14//if _>=5://glucose=260
+fault 15//if _>=5://glucose=280
